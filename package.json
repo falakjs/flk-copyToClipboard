@@ -1,0 +1,13 @@
+{
+    "name": "flk-copy2clipboard",
+    "description": "Copy text to user clipboard.",
+    "version": "0.1.2",
+    "author": {
+        "email": "hassanzohdy@gmail.com",
+        "name": "Hasan Zohdy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-copy2clipboard"
+    }
+}
